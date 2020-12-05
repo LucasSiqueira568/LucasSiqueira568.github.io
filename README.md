@@ -1,11 +1,8 @@
 # portifolio
-Portifolio do desenvolvedor
+Meu Portfolio de Desenvolvedor Web
 
 ## Tarefas
 O controle das tarefas desse projeto será realizada no GitHub
 
-## Icons
-:packge: nova funcionalidade
-:up: atualização
-:beatle: correção de bug
-:checkered: release
+## Acesso ao Site
+https://Lucassiqueira568/portfolio.github.io
