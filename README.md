@@ -5,4 +5,4 @@ Meu Portfolio de Desenvolvedor Web
 O controle das tarefas desse projeto será realizada no GitHub
 
 ## Acesso ao Site
-https://gitgub.com/portfolio.github.io
+https://github.com/portfolio.github.io
